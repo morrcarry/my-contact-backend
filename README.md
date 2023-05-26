@@ -29,9 +29,7 @@ To run the project locally, please follow these steps:
 
 Make sure you have Node.js and MongoDB installed on your machine.
 
-## API Documentation
 
-For detailed information on the API endpoints and request/response examples, please refer to the [API Documentation](api_documentation.md) file.
 
 ## Contributing
 
